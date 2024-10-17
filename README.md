@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Tatiana
 
-I'm a backend-programmer. I have a lot experience on C#, now I'm learning Java.
+I'm a backend-programmer. I write in C# and Java
 
 💻 [My Resume](Резюме.pdf)
 

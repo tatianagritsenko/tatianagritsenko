@@ -1,5 +1,9 @@
 ## Hi there 👋 My name is Tatiana
 
+I'm a backend-programmer. I have a lot experience on C#, now I'm learning Java.
+
+💻 [My Resume](Резюме.pdf)
+
 <!--
 **tatianagritsenko/tatianagritsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
